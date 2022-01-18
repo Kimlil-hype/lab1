@@ -1,5 +1,5 @@
 # solo-team
-Our software architecture work
+My software architecture work
 
 Лабораторна робота №1
 
